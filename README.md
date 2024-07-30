@@ -7,3 +7,5 @@ I'm a high school student with a passion for computer science. I can code in Jav
 
 
 Feel free to reach out to me at --> dianchengt123@gmail.com 😊
+
+![image](https://github.com/user-attachments/assets/f5457a28-5e3a-49c4-908e-3a8477a38678)
