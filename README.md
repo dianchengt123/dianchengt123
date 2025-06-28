@@ -36,4 +36,4 @@ I'm a Computer Science major interested in Data Science, Machine Learning, and e
 📫 Feel free to contact me at: dianchengt123@gmail.com
 <br />
 <br />
-⚡ Fun fact: The first programming language I ever learned was Snap! (Yes, it's the block-based one.) 
+⚡ Fun fact: The first programming language I ever learned was Snap! (Yes, it's the block-based one) 
