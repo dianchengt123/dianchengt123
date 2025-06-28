@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I'm a Computer Science major interested in Data Science, Machine Learning, and exploring how AI is impacting the industry. I also have experience with web development, both front-end and back-end. Although my knowledge in the aforementioned areas of study is limited, I'm eager to learn more about them. Now, for the question every developer gets: "What's your favorite programming language to code in?" I don't have a specific one, but I tend to use Java, Python, and JavaScript frequently. If you're still reading my about me at this point, I want to thank you for being here and hope that you continue reading the bullet points containing some more facts about me below:
+I'm a Computer Science major interested in Data Science, Machine Learning, and exploring how AI is impacting the industry. I also have experience with web development, both front-end and back-end. Although my knowledge in the aforementioned areas of study is limited, I'm eager to learn more about them. Now, for the question every developer gets: "What's your favorite programming language to code in?" I don't have a specific one, but I tend to use Java, Python, and JavaScript frequently. If you're still reading my about me at this point, I want to thank you for being here and hope that you continue reading the bullet points below:
 
 📚 I’m currently learning ...
 <ul>
