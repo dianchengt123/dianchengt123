@@ -30,7 +30,7 @@ I'm a Computer Science major interested in Data Science, Machine Learning, and e
 👯 In my free time, I enjoy playing badminton, grinding Geometry Dash, and listening to music!
 <br />
 <br />
-💬 Ask me anything about anime and manga! My favorite series is Attack on Titan, if you're wondering :)
+💬 Ask me anything about anime and manga! My favorite series is Attack on Titan, just in case you were wondering :)
 <br />
 <br />
 📫 Feel free to contact me at: dianchengt123@gmail.com
